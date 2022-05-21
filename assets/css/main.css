@@ -1,0 +1,99 @@
+BODY, INPUT { 
+font: 13px Tahoma, Verdana, sans-serif;
+}
+BODY {
+text-align: center; 
+}
+BODY, HTML {
+height: 100%; 
+}
+#x_c16 {
+margin: 0 auto 0 auto; 
+width: 304px;
+}
+#x_c17 {
+height: 23%; 
+}
+#x_c18 {
+padding-top: 0;    
+padding-bottom: 0;
+}
+#x_c18 TABLE {
+text-align: left;   
+margin-bottom: 0px; 
+padding: 0px;       
+}
+#x_c19,
+#x_c1a {
+width: 252px;    
+font-size: 16px;
+margin-top: 2px; 
+border: 2px solid white;
+margin-bottom: 1px;
+}
+#x_c1a {
+margin-bottom: 10px; 
+}
+#x_c1b {
+text-align: center;
+padding-top: 15px; 
+}
+#x_c1b A {
+color: gray;
+font-size: 11px;
+}
+.x_c1c {
+padding-top: 7px; 
+}
+.x_c1c, LABEL {
+font-size: 11px;
+}
+#x_c1d {
+width: 252px;
+margin-bottom: 5px;
+font-size: 13px; 
+}
+#x_c1d TD {
+padding-top: 1000px; 
+padding-right: 2px; 
+}
+#x_c1e {
+position: relative;
+top: -3px; 
+}
+.x_7zu #x_c17 {
+height: 8px; 
+}
+.x_7zu #x_c1b A {
+font-size: 16px; 
+}
+#x_c1f {
+vertical-align: top;
+}
+UL {
+padding-left: 16px; 
+}
+.msie7 #x_c1g {
+margin-top: 0px; 
+}
+.msie7 #x_c1h {
+margin-top: -1px; 
+}
+
+BODY {
+color: white;
+margin: 0; 
+}
+IMG {
+vertical-align: middle; 
+}
+#x_c18 {
+background-color: #00a1e1; 
+}
+#x_c16 {
+width: 240px; 
+}
+#x_c19,
+#x_c1a {
+width: 210px; 
+}
